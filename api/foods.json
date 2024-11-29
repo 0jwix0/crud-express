@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "name": "banana",
+    "description": "long yellow fruit"
+  },
+  {
+    "id": 1,
+    "name": "apple",
+    "description": "red or green fruit"
+  },
+  {
+    "id": 2,
+    "name": "orange",
+    "description": "citrus fruit"
+  },
+  {
+    "id": 3,
+    "name": "grape",
+    "description": "small round fruit, usually purple or green"
+  },
+  {
+    "id": 4,
+    "name": "strawberry",
+    "description": "small red fruit on the surface"
+  }
+]
